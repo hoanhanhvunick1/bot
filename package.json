@@ -1,7 +1,7 @@
 {
-    "name": "tddzs1tg06",
+    "name": "Hoàng Abg Vũ",
     "version": "1.2.14",
-    "description": "Không làm mà đòi có ăn=))",
+    "description": "HAV",
     "main": "main.js",
     "scripts": {
         "start": "node index",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tandung1/Bot12.git"
+        "url": "git+https://github.com/hoanhanhvunick1/bot.git"
     },
-     "author": "CatalizCS",
+     "author": "HAV",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
